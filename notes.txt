@@ -1,1 +1,5 @@
 reference :
+
+A countries total cases and GDP seems to be positively corelated, R is: 0.7756
+
+0.5984 = r for Total deaths vs GDP
