@@ -1,0 +1,24 @@
+References:
+
+1.https://worldometers.info/coronavirus/
+2.https://worldpopulationreview.com/countries/countries-by-gdp/ (UN)
+3.https://www.who.int/data/gho/data/indicators/indicator-details/GHO/hospital-beds-(per-10-000-population) (WHO)
+
+Legends:
+
+1.Country = Country, Islands
+2.Total_Cases = Total_Cases
+3.Total_Deaths = Total_Deaths
+4.Total_Recovered = Total_Recovered
+5.Active_Cases = Active_Cases
+6.Tot_Cases = Tot Cases/ 1M pop
+7.Deaths = Deaths/ 1M pop
+8.Total_Tests = Total_Tests
+9.Tests = Tests/ 1M pop
+10.population = population (in millions) 2020 approx
+11.Median_Age = Median_Age
+12.population_density = population density (P/KM2)
+13.world_economy_GDP = world economy (GDP) in USD 
+14.hospital_beds = Max hospital beds per 10,000 population till 2020
+
+Database recorded : 7/5/20 World_cases = 3.6 M
